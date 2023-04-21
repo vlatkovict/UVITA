@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-link {
+	letter-spacing: 0.5px;
+}
+
+#logoslika{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+#textnav{
+    color: black;
+    text-transform: uppercase;
+    margin-right: 20px;
+    margin-left: 2px;
+}
+
+.carousel-inner > .carousel-item > img {
+    /*height: 500px;*/
+	height: 100%;
+	width: 100%;
+}
+
+
+/* kontakt forma*/
+.form-area {
+	padding-top: 7%;
+}
+.row.single-form {
+	box-shadow: 0 2px 20px -5px rgba(0,0,0,0.5);
+}
+.left {
+	background: rgb(104, 17, 5);
+	padding: 220px 98px;
+}
+.left h2 {
+	font-family: poppins;
+	color: #fff;
+	font-weight: 700;
+	font-size: 48px;
+}
+.left h2 span {
+	font-weight: 100;
+}
+.single-form{
+    background: #fff;
+}
+.right {
+	padding: 70px 100px;
+	position: relative;
+}
+.right i {
+	position: absolute;
+	font-size: 80px;
+	left: -27px;
+	top: 40%;
+	color: #fff;
+}
+.form-control {
+	border: 2px solid #000;
+}
+.right button {
+	border: none;
+	border-radius: 0;
+	background: #252525;
+	width: 180px;
+	color: #fff;
+	padding: 15px 0;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.right button:hover{
+    background-color: #252525;
+}
+/* kraj kontakt forme*/
+
+/*css za proizvode*/
+
+.text{
+	background-color: rgb(104, 17, 5);
+	color: white;
+}
+
+
+
+
+/*hover efekti*/
+
+.nav-link:hover{
+	border-bottom: 2px solid red;
+    
+}
+#submit:hover{
+	background-color:  rgb(104, 17, 5);
+}
+#bojaInstagram{
+	position: relative;
+	width: 26px;
+	height: 26px;
+	border-radius: 20%;
+	background:radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
